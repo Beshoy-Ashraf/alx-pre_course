@@ -1,2 +1,1 @@
-My first readme
-b4b4
+Shell Basics Readme
