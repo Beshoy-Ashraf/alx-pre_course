@@ -1,2 +1,2 @@
 #!/bin/bash
-sort input.txt | uniq -u
+cat input.txt | ./find_unique_words.sh
